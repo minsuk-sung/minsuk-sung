@@ -3,11 +3,14 @@
 - University of London , SOAS (2016년 9월 - 2016년 12월)
 - 고려대학교 대학원 인공지능학과, 안암캠퍼스 - 석박사통합과정 재학 (2020년 3월 - 현재)
 
-## 관심분야 및 사용가능한 언어
-### 관심분야
+---
+
+## 관심분야
 - Deep Learning
 - Reinforcement Learning
 - Finance
+
+---
 
 ## 연구 내용 / 학습 내용
 ### PEM Lab - 학부연구생 (2018년 3월 - 현재)
@@ -43,6 +46,8 @@
 ### Mobilenet을 이용한 Image Classification, 인텔코리아 (2019년 11월)
 Tensorflow, Keras 기반으로 20가지 이미지를 분류할 수 있는 Mobilenet을 Transfer Learning하는 작업 진행
 GitHub : https://github.com/mssung94/intel-image-classification
+
+---
 
 ## 수상 내역
 ### 생체 광학 데이터 분석 AI 경진대회, DACON - 7등/696등 (2020년 6월)
