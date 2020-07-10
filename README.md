@@ -13,7 +13,10 @@
 ---
 
 ## 연구 내용 / 학습 내용
-### PEM Lab - 학부연구생 (2018년 3월 - 현재)
+### PRML Lab - 석박사통합과정 (2020년 3월 - 현재)
+- 강화학습을 이용하여 Slippage를 최소화하는 방향으로 최적의 주문집행
+
+### PEM Lab - 학부연구생 (2018년 3월 - 2020년 2월)
 - 인간의 이동데이터와 머신러닝/딥러닝을 결합한 연구를 진행함
 - 국내 논문 : Minsuk Sung, Ha Yoon Song, “Prediction on Visited Stations through the Analysis of Individual Movements Data”, Korea Institute of Information Scientists and Engineers, 2019
 - 해외 논문 : Ha Yoon Song, Moo Sang Beak, Minsuk Sung, “Generating Human Mobility Route Based on Generative Adversarial Network”, Federated Conference on Computer Science and Information Systems(FedCSIS),  2019.
