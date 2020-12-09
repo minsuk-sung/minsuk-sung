@@ -1,2 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minsuk-sung&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsuk-sung&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsuk-sung)](https://github.com/minsuk-sung)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minsuksung@korea.ac.kr)](mailto:minsuksung@korea.ac.kr)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/minsuk.stone.sung/)](https://www.facebook.com/minsuk.stone.sung/)
+[![Github Followers](https://img.shields.io/github/followers/minsuk-sung?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/minsuk-sung?tab=followers)
+[![Minsuk Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsuk-sung&show_icons=true&hide_border=true)](https://github.com/minsuk-sung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsuk-sung&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
